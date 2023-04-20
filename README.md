@@ -1,2 +1,1 @@
-# shoea
-# shoeStore
+# shoeStore first-version
